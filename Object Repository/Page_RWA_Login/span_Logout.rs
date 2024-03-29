@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Logout</name>
+   <tag></tag>
+   <elementGuidId>c4af81dc-e003-4608-bc9e-907f7f3793e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/div[5]/ul/div/div/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiButtonBase-root.MuiListItem-root.MuiListItem-gutters.MuiListItem-button > div.MuiListItemText-root > span.MuiTypography-root.MuiListItemText-primary.MuiTypography-body1.MuiTypography-displayBlock</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-test=&quot;sidenav-signout&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9c201ba9-f958-4a72-8bae-60266760548c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiListItemText-primary MuiTypography-body1 MuiTypography-displayBlock</value>
+      <webElementGuid>e295fe6e-7ebd-4d33-9ac1-6a94c957d877</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Logout</value>
+      <webElementGuid>842b8919-4a7c-4904-bde7-5c0a48a0f1fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;makeStyles-root-1&quot;]/div[@class=&quot;MuiDrawer-root MuiDrawer-docked&quot;]/div[@class=&quot;MuiPaper-root MuiDrawer-paper makeStyles-drawerPaper-31 MuiDrawer-paperAnchorLeft MuiDrawer-paperAnchorDockedLeft MuiPaper-elevation0&quot;]/div[@class=&quot;MuiGrid-root makeStyles-userProfile-33 MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-content-xs-space-between&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item&quot;]/ul[@class=&quot;MuiList-root MuiList-padding&quot;]/div[1]/div[@class=&quot;MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-button&quot;]/div[@class=&quot;MuiListItemText-root&quot;]/span[@class=&quot;MuiTypography-root MuiListItemText-primary MuiTypography-body1 MuiTypography-displayBlock&quot;]</value>
+      <webElementGuid>fbedd281-2882-4445-83e3-1cff1456c5eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div[5]/ul/div/div/div[2]/span</value>
+      <webElementGuid>17b76d3e-e7c3-48a5-914c-20a742951e88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifications'])[1]/following::span[2]</value>
+      <webElementGuid>36878cdd-bad0-41a3-8443-3cd02c29dc82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank Accounts'])[1]/following::span[4]</value>
+      <webElementGuid>297c73ed-ed64-41a0-b2e7-92f1bf9caf57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date: ALL'])[1]/preceding::span[4]</value>
+      <webElementGuid>e421058d-e058-4eb8-bb96-0ab3e0b2d517</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amount: $0 - $1,000'])[1]/preceding::span[6]</value>
+      <webElementGuid>4eddfda5-6fb2-4d4f-8efe-b6cd7c561dfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Logout']/parent::*</value>
+      <webElementGuid>50d986dd-79f2-48f5-8203-275ac312ce12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/span</value>
+      <webElementGuid>96657984-914f-4fb7-a5d5-a23e5a1dcfdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Logout' or . = 'Logout')]</value>
+      <webElementGuid>4907ffb8-1f5d-479a-a80a-c7bc083cfec5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

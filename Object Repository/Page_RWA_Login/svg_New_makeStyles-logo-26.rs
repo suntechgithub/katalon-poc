@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_New_makeStyles-logo-26</name>
+   <tag></tag>
+   <elementGuidId>1d9c441b-b97d-456a-b826-c9942b5e69dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[1]/preceding::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.makeStyles-logo-26</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-test=&quot;app-name-logo&quot;] >> internal:role=link</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>ee8f35ac-9c2f-4194-98e7-0ff9b3b76349</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>235px</value>
+      <webElementGuid>462c1fbd-4165-4e35-be9d-52eb96d0686f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>28px</value>
+      <webElementGuid>82d38dd0-8eae-4d93-8199-f072c7c06466</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 235 28</value>
+      <webElementGuid>cc3a9ba3-f572-4874-849c-6a674bea85d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>14fa2eec-96d3-457a-94fc-938d3d990b78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>makeStyles-logo-26</value>
+      <webElementGuid>2dc28c49-ad51-4096-9891-54de54d6803c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;makeStyles-root-1&quot;]/header[@class=&quot;MuiPaper-root MuiAppBar-root MuiAppBar-positionAbsolute MuiAppBar-colorPrimary makeStyles-appBar-22 makeStyles-appBarShift-23 MuiPaper-elevation4&quot;]/div[@class=&quot;MuiToolbar-root MuiToolbar-regular makeStyles-toolbar-21 MuiToolbar-gutters&quot;]/h1[@class=&quot;MuiTypography-root makeStyles-title-25 MuiTypography-h6 MuiTypography-colorInherit MuiTypography-noWrap&quot;]/a[@class=&quot;MuiTypography-root MuiLink-root MuiLink-underlineHover MuiTypography-colorPrimary&quot;]/svg[@class=&quot;makeStyles-logo-26&quot;]</value>
+      <webElementGuid>0fad17f7-ee1f-417c-894a-8f5e51d78234</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>40e9843d-ae0a-4394-993b-92b05c214dd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Everyone'])[1]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>99349247-ed10-4e3c-8ef4-53d1b0173e63</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
