@@ -6,12 +6,12 @@
    <elementGuidId>e371f4cc-5e8f-4c34-b035-149380ea734d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/div/main/div/h1</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>h1.MuiTypography-root.MuiTypography-h5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div/h1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h1</value>
-      <webElementGuid>f50ae125-9faf-43ab-9edc-954a93636673</webElementGuid>
+      <webElementGuid>c123f45c-4d1d-459d-889b-a62170880623</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiTypography-root MuiTypography-h5</value>
-      <webElementGuid>4eeb2c16-720b-4ffd-a7db-8067394e70cd</webElementGuid>
+      <webElementGuid>8cb46afe-6fd7-4093-9bab-d0cc072512d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Sign in</value>
-      <webElementGuid>3be8c7d3-1ed5-43dc-811e-240d311f3986</webElementGuid>
+      <webElementGuid>f7788ef2-cb55-45f0-967e-d3788792332e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;makeStyles-root-1&quot;]/main[@class=&quot;MuiContainer-root MuiContainer-maxWidthXs&quot;]/div[@class=&quot;makeStyles-paper-2&quot;]/h1[@class=&quot;MuiTypography-root MuiTypography-h5&quot;]</value>
-      <webElementGuid>d3043c6f-b50c-4b81-b744-c682cf4f85fa</webElementGuid>
+      <webElementGuid>41e8617f-4596-4aea-a79a-e8d5f7e96b04</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/h1</value>
-      <webElementGuid>16db2b9d-852c-4fc6-8068-e4d39b899d61</webElementGuid>
+      <webElementGuid>d1e14b1e-7ff0-4575-9866-1781f43498b6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/preceding::h1[1]</value>
-      <webElementGuid>59a3d2a7-817e-4779-a06b-e59c06ac709b</webElementGuid>
+      <webElementGuid>e7c19b47-cac8-4dad-bc44-05cc552b0cd7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[2]/preceding::h1[1]</value>
-      <webElementGuid>492ed21e-4b53-45d9-b5e4-7b791c970bae</webElementGuid>
+      <webElementGuid>37f3c7b7-406d-4d23-9428-5773dc67ed87</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Sign in']/parent::*</value>
-      <webElementGuid>78b54985-5755-473e-a52f-eacf7e358e6e</webElementGuid>
+      <webElementGuid>0e0c16fc-9c20-49db-ae36-2385681f96a0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h1</value>
-      <webElementGuid>32fec3f5-a025-4371-814b-90c24628379f</webElementGuid>
+      <webElementGuid>80376927-b23a-4a99-9bb1-3f251e5889a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h1[(text() = 'Sign in' or . = 'Sign in')]</value>
-      <webElementGuid>c37a13e2-484e-4aef-a8ea-e4208e23de41</webElementGuid>
+      <webElementGuid>cdcb769f-ea05-46da-8936-39c9cfe13824</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

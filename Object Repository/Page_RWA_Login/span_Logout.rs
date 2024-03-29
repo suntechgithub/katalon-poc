@@ -6,12 +6,12 @@
    <elementGuidId>c4af81dc-e003-4608-bc9e-907f7f3793e9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/div/div/div/div[2]/div[5]/ul/div/div/div[2]/span</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.MuiButtonBase-root.MuiListItem-root.MuiListItem-gutters.MuiListItem-button > div.MuiListItemText-root > span.MuiTypography-root.MuiListItemText-primary.MuiTypography-body1.MuiTypography-displayBlock</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/div[5]/ul/div/div/div[2]/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>9c201ba9-f958-4a72-8bae-60266760548c</webElementGuid>
+      <webElementGuid>e6511447-c2bd-446e-9d1d-bddf655ff631</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiTypography-root MuiListItemText-primary MuiTypography-body1 MuiTypography-displayBlock</value>
-      <webElementGuid>e295fe6e-7ebd-4d33-9ac1-6a94c957d877</webElementGuid>
+      <webElementGuid>8d150e19-a008-4dc5-8860-4467390fd3e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Logout</value>
-      <webElementGuid>842b8919-4a7c-4904-bde7-5c0a48a0f1fa</webElementGuid>
+      <webElementGuid>2da45c02-b762-4f8d-8571-aa81e9cfc52f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;makeStyles-root-1&quot;]/div[@class=&quot;MuiDrawer-root MuiDrawer-docked&quot;]/div[@class=&quot;MuiPaper-root MuiDrawer-paper makeStyles-drawerPaper-31 MuiDrawer-paperAnchorLeft MuiDrawer-paperAnchorDockedLeft MuiPaper-elevation0&quot;]/div[@class=&quot;MuiGrid-root makeStyles-userProfile-33 MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-content-xs-space-between&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item&quot;]/ul[@class=&quot;MuiList-root MuiList-padding&quot;]/div[1]/div[@class=&quot;MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-button&quot;]/div[@class=&quot;MuiListItemText-root&quot;]/span[@class=&quot;MuiTypography-root MuiListItemText-primary MuiTypography-body1 MuiTypography-displayBlock&quot;]</value>
-      <webElementGuid>fbedd281-2882-4445-83e3-1cff1456c5eb</webElementGuid>
+      <webElementGuid>489fdf98-28ab-4890-ae6b-0fad906d170e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div[2]/div[5]/ul/div/div/div[2]/span</value>
-      <webElementGuid>17b76d3e-e7c3-48a5-914c-20a742951e88</webElementGuid>
+      <webElementGuid>35a8a01e-112e-4e46-bea8-02901d51746f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifications'])[1]/following::span[2]</value>
-      <webElementGuid>36878cdd-bad0-41a3-8443-3cd02c29dc82</webElementGuid>
+      <webElementGuid>c5fbbbc5-bf3c-4929-a7a8-0b846bdb4b6d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank Accounts'])[1]/following::span[4]</value>
-      <webElementGuid>297c73ed-ed64-41a0-b2e7-92f1bf9caf57</webElementGuid>
+      <webElementGuid>87f0eb77-6903-48fb-b5c1-363e25611a73</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Date: ALL'])[1]/preceding::span[4]</value>
-      <webElementGuid>e421058d-e058-4eb8-bb96-0ab3e0b2d517</webElementGuid>
+      <webElementGuid>6892d752-df0a-4dc0-82a3-856eb8354f76</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Amount: $0 - $1,000'])[1]/preceding::span[6]</value>
-      <webElementGuid>4eddfda5-6fb2-4d4f-8efe-b6cd7c561dfe</webElementGuid>
+      <webElementGuid>0924a5a7-6a28-424a-9c55-1c1893bd21eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Logout']/parent::*</value>
-      <webElementGuid>50d986dd-79f2-48f5-8203-275ac312ce12</webElementGuid>
+      <webElementGuid>1379ec54-9fdc-458b-baf3-c22d240df887</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div[2]/span</value>
-      <webElementGuid>96657984-914f-4fb7-a5d5-a23e5a1dcfdf</webElementGuid>
+      <webElementGuid>5eeb08f6-e40e-49e5-8382-d047830d3ce4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Logout' or . = 'Logout')]</value>
-      <webElementGuid>4907ffb8-1f5d-479a-a80a-c7bc083cfec5</webElementGuid>
+      <webElementGuid>370a0eb9-d4a3-41ba-8cec-e8f726906a04</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

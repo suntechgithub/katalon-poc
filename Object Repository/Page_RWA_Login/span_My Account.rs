@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_My Account</name>
+   <tag></tag>
+   <elementGuidId>1414eba2-96a8-49e5-bdba-9cfb003dd029</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/div[3]/ul/div/a[2]/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-test=&quot;sidenav-user-settings&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>24925c4f-314c-4b6a-a0ed-7f76a44130de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiListItemText-primary MuiTypography-body1 MuiTypography-displayBlock</value>
+      <webElementGuid>1892a33b-6e8a-47ee-886c-3a08758b0929</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Account</value>
+      <webElementGuid>78a24475-4d1e-4f53-9653-27a3794cacfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;makeStyles-root-1&quot;]/div[@class=&quot;MuiDrawer-root MuiDrawer-docked&quot;]/div[@class=&quot;MuiPaper-root MuiDrawer-paper makeStyles-drawerPaper-31 MuiDrawer-paperAnchorLeft MuiDrawer-paperAnchorDockedLeft MuiPaper-elevation0&quot;]/div[@class=&quot;MuiGrid-root makeStyles-userProfile-33 MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-content-xs-space-between&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item&quot;]/ul[@class=&quot;MuiList-root MuiList-padding&quot;]/div[1]/a[@class=&quot;MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-button&quot;]/div[@class=&quot;MuiListItemText-root&quot;]/span[@class=&quot;MuiTypography-root MuiListItemText-primary MuiTypography-body1 MuiTypography-displayBlock&quot;]</value>
+      <webElementGuid>81f47874-5013-4dd6-ad5b-6d25359ed57a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div[3]/ul/div/a[2]/div[2]/span</value>
+      <webElementGuid>0401e54b-56cc-4d81-a3a0-c169da5f550c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::span[2]</value>
+      <webElementGuid>2eade079-27ba-41e4-8877-a25797ec7967</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Balance'])[1]/following::span[3]</value>
+      <webElementGuid>60fcbaac-feaa-450a-a49e-1420a489568b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank Accounts'])[1]/preceding::span[4]</value>
+      <webElementGuid>91835b3a-0d7f-48da-b501-aff214f49bce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifications'])[1]/preceding::span[6]</value>
+      <webElementGuid>40c1d7bc-0971-443d-8b35-5d6f76139a27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='My Account']/parent::*</value>
+      <webElementGuid>cae43b5c-4ab2-4bba-b76c-ebfa171ca981</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/div[2]/span</value>
+      <webElementGuid>32c42fe9-4914-4b69-a11f-ea5bb8c5491d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'My Account' or . = 'My Account')]</value>
+      <webElementGuid>8260639c-3fc2-4d29-b988-51e1070d14c8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
