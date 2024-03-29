@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Sign in_makeStyles-logo-3</name>
+   <tag></tag>
+   <elementGuidId>f1df1d00-988a-4c8e-be93-86fd34ea38c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/preceding::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.makeStyles-logo-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=main >> div >> internal:has-text=&quot;Sign inUsernameUsernameUsername is requiredPasswordPasswordRemember meSign InDon&quot;i >> internal:role=img</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>f44076a2-5a31-47dd-8f94-b74a470bf4fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>235px</value>
+      <webElementGuid>54e6a87a-fd0c-4005-a0d8-06674fe38dee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>28px</value>
+      <webElementGuid>cacf04dc-4fbf-4a50-aca5-e4a492377b8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 235 28</value>
+      <webElementGuid>84806f86-c036-42bf-b58d-79536d70eca2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>c0eefc8a-380d-4e66-be11-63ea81b59f00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>makeStyles-logo-3</value>
+      <webElementGuid>df1a9fde-403a-4432-9673-d89e71bf6f46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;makeStyles-root-1&quot;]/main[@class=&quot;MuiContainer-root MuiContainer-maxWidthXs&quot;]/div[@class=&quot;makeStyles-paper-2&quot;]/div[1]/svg[@class=&quot;makeStyles-logo-3&quot;]</value>
+      <webElementGuid>bacb281d-4a2e-4d79-9e8a-3e9ec9552d6f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>4ec2b424-ea8f-4858-a35e-ab45c27f68ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>923a7ba0-e0cc-4d10-878a-aee6064e6491</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
