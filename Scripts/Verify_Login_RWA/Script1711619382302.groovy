@@ -21,11 +21,15 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost:3000/signin')
 
+WebUI.maximizeWindow()
+
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_RWA_Login/h1_Sign in'), 0)
 
-WebUI.setText(findTestObject('Page_RWA_Login/input_Username_username'), 'Test')
+WebUI.setText(findTestObject('Object Repository/Page_RWA_Login/input_Username_username'), 'Heath93')
 
-WebUI.setEncryptedText(findTestObject('Page_RWA_Login/input_Password_password'), '20KCZmjZK/w=')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_RWA_Login/input_Password_password'), '20KCZmjZK/w=')
 
-WebUI.click(findTestObject('Page_RWA_Login/span_Sign In'))
+WebUI.click(findTestObject('Object Repository/Page_RWA_Login/span_Sign In'))
+
+WebUI.verifyElementPresent(findTestObject('Page_RWA_Login/span_My Account'), 0)
 
