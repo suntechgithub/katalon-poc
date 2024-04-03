@@ -19,10 +19,22 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>184d3b67-a758-4e76-99f3-7799dd5a6911</guid>
+      <guid>80dc38aa-ce0b-42e0-a75a-65fd3d2a59c9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Verfiy_Transactions</testCaseId>
+      <testCaseId>Test Cases/Verify_Transactions_Are_Successful</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>12ffce20-9f7d-41d0-9b34-4781dbf13646</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>991bf597-edd4-4b75-a689-ec27cea1a944</variableId>
+      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

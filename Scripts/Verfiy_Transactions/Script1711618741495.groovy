@@ -17,17 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Verify_Login_RWA'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_Transactions/span_Mine'))
+accountBalance_before = accountBalance.replace('$', '')
+accountBalance_before = accountBalance_before.replace(',', '')
 
-WebUI.click(findTestObject('Object Repository/Page_Transactions/p_Ted Parisian paid Test Automation'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Transactions/span_Gift Token for new user'), 'Gift Token for new user')
-
-WebUI.click(findTestObject('Object Repository/Page_Transactions/span_Home'))
-
-WebUI.click(findTestObject('Object Repository/Page_Transactions/span_Logout'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Transactions/h1_Sign in'), 0)
+println(accountBalance_before)
 
