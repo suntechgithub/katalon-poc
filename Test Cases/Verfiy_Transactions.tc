@@ -5,4 +5,17 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>0a4236be-c1b4-4fe0-aa53-d620772355b8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a4465403-0ad0-46cb-a6da-f5db51163492</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'$1,509.3\r\n'</defaultValue>
+      <description></description>
+      <id>a4465403-0ad0-46cb-a6da-f5db51163492</id>
+      <masked>false</masked>
+      <name>accountBalance</name>
+   </variable>
 </TestCaseEntity>
